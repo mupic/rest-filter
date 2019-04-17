@@ -1,0 +1,16 @@
+{
+	"name": "mupic/rest-filter",
+	"version": "1.0.0",
+	"description": "Restores the `filter` param to post enpdpoints.",
+	"keywords": [
+		"wp",
+		"wp-api",
+		"rest"
+	],
+	"type": "wordpress-plugin",
+	"homepage": "https://github.com/mupic/rest-filter",
+	"license": "MIT",
+	"autoload": {
+		"files": ["plugin.php"]
+	}
+}

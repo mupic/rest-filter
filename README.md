@@ -1,5 +1,11 @@
 # WP REST API - Filter parameter for posts endpoints
 
+# Install
+
+```
+composer require mupic/rest-filter
+```
+
 **This plugin is currently unmaintained.**
 
 In WordPress 4.7 the `filter` argument for any post endpoint was removed, The `filter` argument allows the posts to be
